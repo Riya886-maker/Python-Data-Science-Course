@@ -1,0 +1,6 @@
+words=['apple','potato','orange','banana']
+for i in words:
+    print(i,len(i))
+    
+    for i in range(15):
+        print(i)
